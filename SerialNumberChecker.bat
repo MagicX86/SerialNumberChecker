@@ -7,7 +7,7 @@ for /F "tokens=1,2 delims=#" %%a in ('"prompt #`$H#$`E# & echo on & for %%b in (
 )
 call :colorEcho 60 "SERIALNUMBERCHEKER"
 echo.
-echo. By. MagicX64
+echo. By. MagicX86
 echo.
 call :colorEcho 60 "CHECK SERIALS"
 echo.
